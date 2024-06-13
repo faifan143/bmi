@@ -1,0 +1,1 @@
+ D:\\AndroidStudioProjects\\bmi\\.dart_tool\\flutter_build\\ef1edb6e657d8c0478bc0752d16cf307\\native_assets.yaml: 
